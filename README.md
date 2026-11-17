@@ -1,1 +1,44 @@
-# Portofolio-Andi
+# Hallo, Saya Andi! 👋
+
+[![256201045](https://img.shields.io/badge/NIM-235201039-blue)](https://github.com/akunmalik70-commits) [![Program Studi](https://img.shields.io/badge/Program%20Studi-Teknik%20Komputer-orange)](https://github.com/akunmalik70-commits) [![Kampus](https://img.shields.io/badge/Kampus-Politeknik%20Negeri%20Samarinda-green)](https://github.com/akunmalik70-commits)[cite: 1]
+
+Selamat datang di portofolio digital tugas kuliah Ketrampilan Komputer (Kelas 3B). Repositori ini berisi dokumentasi dan tautan hasil pengerjaan proyek akademik selama perkuliahan.
+
+---
+
+## 🚀 Tentang Saya
+
+Mahasiswa aktif Program Studi Teknik Komputer di Politeknik Negeri Samarinda. Memiliki ketertarikan pada pemanfaatan aplikasi perkantoran, otomatisasi dokumen, pengolahan data spreadsheet, pengelolaan *cloud collaboration*, serta keamanan digital[cite: 1].
+
+---
+
+## 🛠️ Keterampilan & Tools
+
+* **Otomatisasi & Pengolah Kata:** Microsoft Word, Google Docs, Fitur Mail Merge.
+* **Analisis Data & Spreadsheet:** Microsoft Excel, Google Sheets, Rumus & Fungsi Data.
+* **Presentasi & Visualisasi:** Microsoft PowerPoint, Google Slides.
+* **Perancangan Sistem & Alur Kerja:** Pembuatan Flowchart & Pemetaan Logika.
+* **Cloud & Keamanan:** Google Drive, Manajemen Kolaborasi Cloud, Keamanan Digital.
+
+---
+
+## 📁 Daftar Tugas & Proyek Kuliah
+
+### 🏛️ Pengalaman Organisasi
+
+* **UKM Jurnalistik POLNES:** Terlibat dalam pengelolaan media, peliputan kegiatan, serta penyusunan karya jurnalistik dan publikasi kampus.
+
+| No | Nama Tugas / Proyek | Deskripsi Singkat | Tautan Akses / File |
+| :---: | :--- | :--- | :--- |
+| **1** | Tugas 1: Mail Merge | Pembuatan surat/undangan massal otomatis menggunakan fitur *Mail Merge*[cite: 1]. | [Lihat Tugas 1 (Google Drive)](https://drive.google.com)[cite: 1] |
+| **2** | Tugas 2: Excel Data Analysis | Pengolahan dan analisis data menggunakan fungsi *spreadsheet*[cite: 1]. | [Lihat Tugas 2 (Google Drive)](https://drive.google.com)[cite: 1] |
+| **3** | Tugas 3: Presentasi Interaktif | Penyusunan materi presentasi informatif dan profesional[cite: 1]. | [Lihat Tugas 3 (Google Drive)](https://drive.google.com)[cite: 1] |
+| **4** | Tugas 4: Pemetaan Flowchart | Perancangan diagram alur logika proses atau alur kerja[cite: 1]. | [Lihat Tugas 4 (Google Drive)](https://drive.google.com)[cite: 1] |
+| **5** | Tugas 5: Cloud Collaboration & Keamanan | Manajemen penyimpanan *cloud*, hak akses, & keamanan digital[cite: 1]. | [Lihat Tugas 5 (Edlink/Drive)](https://drive.google.com)[cite: 1] |
+
+---
+
+## 📬 Hubungi Saya
+
+* **Email:** [andiandi96599@gmail.com].
+* **Kampus:** Politeknik Negeri Samarinda[cite: 1]
