@@ -2,6 +2,14 @@
 
 [![256201045](https://img.shields.io/badge/NIM-235201039-blue)](https://github.com/akunmalik70-commits) [![Program Studi](https://img.shields.io/badge/Program%20Studi-Teknik%20Komputer-orange)](https://github.com/akunmalik70-commits) [![Kampus](https://img.shields.io/badge/Kampus-Politeknik%20Negeri%20Samarinda-green)](https://github.com/akunmalik70-commits)
 
+[![NIM](https://img.shields.io/badge/NIM-256201045-blue)](https://github.com/akunmalik70-commits) [![Program Studi](https://img.shields.io/badge/Program%20Studi-Teknik%20Komputer-orange)](https://github.com/akunmalik70-commits) [![Kampus](https://img.shields.io/badge/Kampus-Politeknik%20Negeri%20Samarinda-green)](https://github.com/akunmalik70-commits)
+```[cite: 1]
+
+### Cara Menyesuaikan (Opsional):
+Jika Anda ingin mengubah teks atau warna badge tersebut, Anda dapat mengubah format URL-nya:
+* Format URL: `[https://img.shields.io/badge/TEKS_KIRI-TEKS_KANAN-WARNA](https://img.shields.io/badge/TEKS_KIRI-TEKS_KANAN-WARNA)`
+* Contoh warna yang tersedia: `blue`, `orange`, `green`, `red`, `yellow`, `brightgreen`, `purple`, dll.
+
 Selamat datang di portofolio digital tugas kuliah Ketrampilan Komputer (Kelas 3B). Repositori ini berisi dokumentasi dan tautan hasil pengerjaan proyek akademik selama perkuliahan.
 
 ---
