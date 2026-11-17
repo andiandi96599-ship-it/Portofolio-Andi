@@ -40,5 +40,5 @@ Mahasiswa aktif Program Studi Teknik Komputer di Politeknik Negeri Samarinda. Me
 
 ## 📬 Hubungi Saya
 
-* **Email:** [andiandi96599@gmail.com](mailto:andiandi96599@gmail.com)
-* **Kampus:** Politeknik Negeri Samarinda
+* **Email:** [andiandi96599@gmail.com](mailto:andiandi96599@gmail.com).
+* **Kampus:** Politeknik Negeri Samarinda.
