@@ -32,8 +32,8 @@ Mahasiswa aktif Program Studi Teknik Komputer di Politeknik Negeri Samarinda. Me
 | :---: | :--- | :--- | :--- |
 | **1** | Tugas 1: Mail Merge | Pembuatan surat/undangan massal otomatis menggunakan fitur *Mail Merge*. | [Lihat Tugas 1 (Google Drive)](https://drive.google.com/drive/folders/1UV9gePMqdrvV2SvkeaNqd4nta6C7qh23) |
 | **2** | Tugas 2: Excel Data Analysis | Pengolahan dan analisis data menggunakan fungsi *spreadsheet*. | [Lihat Tugas 2 (Google Drive)](https://drive.google.com/drive/folders/14VrclgBuWid3IZ8sPaTj-b6BIXls07x-) |
-| **3** | Tugas 3: Presentasi Interaktif | Penyusunan materi presentasi informatif dan profesional[cite: 1]. | [Lihat Tugas 3 (Google Drive)](https://drive.google.com/drive/folders/1RsJBTGFCYkyR5Q4oCIRgEJcTcjnmQtBo) |
-| **4** | Tugas 4: Pemetaan Flowchart | Perancangan diagram alur logika proses atau alur kerja[cite: 1]. | [Lihat Tugas 4 (Google Drive)](https://drive.google.com/drive/folders/1LE33t98Uz7WzqwZC75XDK8auyHjNQEMX) |
+| **3** | Tugas 3: Presentasi Interaktif | Penyusunan materi presentasi informatif dan profesional. | [Lihat Tugas 3 (Google Drive)](https://drive.google.com/drive/folders/1RsJBTGFCYkyR5Q4oCIRgEJcTcjnmQtBo) |
+| **4** | Tugas 4: Pemetaan Flowchart | Perancangan diagram alur logika proses atau alur kerja. | [Lihat Tugas 4 (Google Drive)](https://drive.google.com/drive/folders/1LE33t98Uz7WzqwZC75XDK8auyHjNQEMX) |
 | **5** | Tugas 5: Cloud Collaboration & Keamanan | Manajemen penyimpanan *cloud*, hak akses, & keamanan digital. | [Lihat Tugas 5 (Edlink/Drive)](https://drive.google.com/drive/folders/1C9ADGLIprAy0D7ovdj0gc5XRzZywLJji) |
 
 ---
