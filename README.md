@@ -1,4 +1,4 @@
-# Hallo, Saya Andi! 👋
+# Hallo, Saya Andi! :v 👋
 
 [![NIM](https://img.shields.io/badge/NIM-256201045-blue)](https://github.com/andiandi96599-ship-it) [![Program Studi](https://img.shields.io/badge/Program%20Studi-Teknik%20Komputer-orange)](https://github.com/andiandi96599-ship-it) [![Kampus](https://img.shields.io/badge/Kampus-Politeknik%20Negeri%20Samarinda-green)](https://github.com/andiandi96599-ship-it)
 ```
@@ -6,7 +6,7 @@ Selamat datang di portofolio digital tugas kuliah Ketrampilan Komputer (Kelas 3B
 
 ---
 
-## 🚀 Tentang Saya
+**🚀 Tentang Saya**
 
 Mahasiswa aktif Program Studi Teknik Komputer di Politeknik Negeri Samarinda. Memiliki ketertarikan pada pemanfaatan aplikasi perkantoran, otomatisasi dokumen, pengolahan data spreadsheet, pengelolaan *cloud collaboration*, serta keamanan digital..
 
@@ -14,11 +14,11 @@ Mahasiswa aktif Program Studi Teknik Komputer di Politeknik Negeri Samarinda. Me
 
 ## 🛠️ Keterampilan & Tools
 
-* **Otomatisasi & Pengolah Kata:** Microsoft Word, Google Docs, Fitur Mail Merge.
+*** **Otomatisasi & Pengolah Kata:** Microsoft Word, Google Docs, Fitur Mail Merge.
 * **Analisis Data & Spreadsheet:** Microsoft Excel, Google Sheets, Rumus & Fungsi Data.
 * **Presentasi & Visualisasi:** Microsoft PowerPoint, Google Slides.
 * **Perancangan Sistem & Alur Kerja:** Pembuatan Flowchart & Pemetaan Logika.
-* **Cloud & Keamanan:** Google Drive, Manajemen Kolaborasi Cloud, Keamanan Digital.
+* **Cloud & Keamanan:** Google Drive, Manajemen Kolaborasi Cloud, Keamanan Digital.**
 
 ---
 
