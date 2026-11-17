@@ -1,8 +1,6 @@
 # Hallo, Saya Andi! 👋
 
-[![256201045](https://img.shields.io/badge/NIM-235201039-blue)](https://github.com/akunmalik70-commits) [![Program Studi](https://img.shields.io/badge/Program%20Studi-Teknik%20Komputer-orange)](https://github.com/akunmalik70-commits) [![Kampus](https://img.shields.io/badge/Kampus-Politeknik%20Negeri%20Samarinda-green)](https://github.com/akunmalik70-commits)
-
-[![NIM](https://img.shields.io/badge/NIM-256201045-blue)](https://github.com/akunmalik70-commits) [![Program Studi](https://img.shields.io/badge/Program%20Studi-Teknik%20Komputer-orange)](https://github.com/akunmalik70-commits) [![Kampus](https://img.shields.io/badge/Kampus-Politeknik%20Negeri%20Samarinda-green)](https://github.com/akunmalik70-commits)
+[![NIM](https://img.shields.io/badge/NIM-256201045-blue)](https://github.com/andiandi96599-ship-it) [![Program Studi](https://img.shields.io/badge/Program%20Studi-Teknik%20Komputer-orange)](https://github.com/andiandi96599-ship-it) [![Kampus](https://img.shields.io/badge/Kampus-Politeknik%20Negeri%20Samarinda-green)](https://github.com/andiandi96599-ship-it)
 ```[cite: 1]
 
 ### Cara Menyesuaikan (Opsional):
